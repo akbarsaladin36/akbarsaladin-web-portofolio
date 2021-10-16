@@ -1,4 +1,4 @@
-<h1 align='center'>React JS - Tickitz Booking Ticket</h1>
+<h1 align='center'>My Portofolio</h1>
   <p align="center">
     <a href="https://tickitz-indonesian-booking-tickets.netlify.app">View Demo</a>
     ·
@@ -6,8 +6,6 @@
     ·
     <a href="https://github.com/akbarsaladin36/xtickitz-indonesian-booking-website/pulls">Request Feature</a>
   </p>
-
-![Image Banner](public/img/home-screenshot.jpg)
 
 ## About The Project
 
