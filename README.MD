@@ -11,14 +11,10 @@
 
 This is just my portofolio to introduce about me. If you want this file, you can clone or read the "getting started" description. This portofolio is created with HTML, CSS, a short of Javascript code, and Bootstrap 5 framework.
 
-## Built With
-
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-v4.6.x-blue)](https://github.com/react-bootstrap/react-bootstrap)
-
 
 ## Getting Started
 
-1. Download this Project or you can type `git clone https://github.com/akbarsaladin36/xtickitz-indonesian-booking-website.git`
+1. Download this Project or you can type `git clone https://github.com/akbarsaladin36/akbarsaladin-web-portofolio.git`
 2. Just open `index.html` or Start with Live Server on VSCode.
 
 
