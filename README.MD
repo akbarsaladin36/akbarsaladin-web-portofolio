@@ -1,10 +1,10 @@
 <h1 align='center'>My Portofolio</h1>
   <p align="center">
-    <a href="https://tickitz-indonesian-booking-tickets.netlify.app">View Demo</a>
+    <a href="https://akbarsaladin.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/akbarsaladin36/xtickitz-indonesian-booking-website/issues">Report Bug</a>
+    <a href="https://github.com/akbarsaladin36/akbarsaladin-web-portofolio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/akbarsaladin36/xtickitz-indonesian-booking-website/pulls">Request Feature</a>
+    <a href="https://github.com/akbarsaladin36/akbarsaladin-web-portofolio/pulls">Request Feature</a>
   </p>
 
 ## About The Project
